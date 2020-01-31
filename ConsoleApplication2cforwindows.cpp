@@ -96,7 +96,7 @@ int main()
 	std::cout << "\n"; // just a new line 
 	replace2(pattern, sizeof pattern, "1124", sizeof "1124");
 	std::cout << "\n"; // just a new line 
-	PRINT_REPLACE("1124");
+	PRINT_REPLACE("1194");
 	std::cout << "\n"; // just a new line 
 	PRINT_REPLACE("11");
 	std::cout << "\n"; // just a new line 
